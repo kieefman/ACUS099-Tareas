@@ -1,6 +1,6 @@
 # Tareas-ACUS099
 
-![Logo UACh](/fotos/logo_uach.png "Título alternativo")
+![Logo UACh](Tarea2/fotos/logo_uach.png "Título alternativo")
 
 En este repositorio, estarán todas las tareas del curso ACUS099 "Procesamiento digital de Señales"
 
