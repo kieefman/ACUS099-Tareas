@@ -1,6 +1,6 @@
 # Tareas-ACUS099
 
-![Logo UACh](Tarea2/fotos/logo_uach.png "Título alternativo")
+![Logo Acústica](https://www.universodelsonido.cl/wp-content/uploads/2015/10/acusticauach_blanco.jpg "Acústica UACh")
 
 En este repositorio, estarán todas las tareas del curso ACUS099 "Procesamiento digital de Señales"
 
