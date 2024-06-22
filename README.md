@@ -29,3 +29,4 @@ La convolución es una operación matemática fundamental en el análisis y proc
 ## Integrantes
 
 + Cristóbal González (cristobal dot gonzalez04 at alumnos dot uach dot cl)
++ Joaquín Toledo (joaquin dot toledo01 at alumnos dot uach dot cl)
